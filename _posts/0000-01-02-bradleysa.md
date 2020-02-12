@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Very spicy, really good. Huu!" - Osa
 Use the left arrow to go back!
